@@ -1,0 +1,20 @@
+[v-cloak] {
+  display: none;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.bg-blue {
+  background-color: #92d2ff;
+}
+
+.main-container {
+  display: flex;
+  height: 100vh;
+}
+
+.text-red {
+  color: #ff6378;
+}
